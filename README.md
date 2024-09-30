@@ -5,6 +5,8 @@
   Astro Cactus
 </h1>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ec794ec3-daf6-4695-8583-816502684e4a/deploy-status)](https://app.netlify.com/sites/venerable-moxie-fc218c/deploys)
+
 Astro Cactus is a simple opinionated starter built with the Astro framework. Use it to create an easy-to-use blog or website.
 
 ## Table Of Contents
